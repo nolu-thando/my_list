@@ -11,3 +11,7 @@ print(my_list2)
 
 my_list.extend(my_list2)
 print("List after append",my_list)
+
+#removing the last element from my_list2
+my_list2.remove(80)
+print(my_list2)
