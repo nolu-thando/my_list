@@ -1,4 +1,4 @@
 # my_list
-Used the append and extend method!
+This is a python program.
 
 #Happy Coding!
