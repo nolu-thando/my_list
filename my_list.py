@@ -19,4 +19,9 @@ print('My list after removing the last number:', my_list)
 
 ##sorting my list in ascending order.
 my_list =[10,20,30,40]
-my_list.sort
+my_list.sort(reverse=False)
+print('My list in ascending order:' , my_list)
+
+##indexing numbers from my_list
+my_list =[10,20,30,40]
+print(my_list [-2])
